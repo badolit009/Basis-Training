@@ -1,0 +1,27 @@
+c:\users\badol hossain\documents\visual studio 2013\Projects\CustomerManagementApp\CustomerManagementApp\bin\Debug\CustomerManagementApp.exe.config
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\CustomerManagementApp\CustomerManagementApp\bin\Debug\CustomerManagementApp.exe
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\CustomerManagementApp\CustomerManagementApp\bin\Debug\CustomerManagementApp.pdb
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\CustomerManagementApp\CustomerManagementApp\obj\Debug\CustomerManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\CustomerManagementApp\CustomerManagementApp\obj\Debug\CustomerManagementApp.CustomerQueueManagement.resources
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\CustomerManagementApp\CustomerManagementApp\obj\Debug\CustomerManagementApp.Properties.Resources.resources
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\CustomerManagementApp\CustomerManagementApp\obj\Debug\CustomerManagementApp.csproj.GenerateResource.Cache
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\CustomerManagementApp\CustomerManagementApp\obj\Debug\CustomerManagementApp.exe
+C:\Users\Badol Hossain\Documents\Visual Studio 2013\Projects\CustomerManagementApp\CustomerManagementApp\obj\Debug\CustomerManagementApp.pdb
+J:\CustomerManagementApp\CustomerManagementApp\bin\Debug\CustomerManagementApp.exe.config
+J:\CustomerManagementApp\CustomerManagementApp\obj\Debug\CustomerManagementApp.exe
+J:\CustomerManagementApp\CustomerManagementApp\obj\Debug\CustomerManagementApp.pdb
+J:\CustomerManagementApp\CustomerManagementApp\bin\Debug\CustomerManagementApp.exe
+J:\CustomerManagementApp\CustomerManagementApp\bin\Debug\CustomerManagementApp.pdb
+J:\CustomerManagementApp\CustomerManagementApp\obj\Debug\CustomerManagementApp.csprojResolveAssemblyReference.cache
+J:\CustomerManagementApp\CustomerManagementApp\obj\Debug\CustomerManagementApp.CustomerQueueManagement.resources
+J:\CustomerManagementApp\CustomerManagementApp\obj\Debug\CustomerManagementApp.Properties.Resources.resources
+J:\CustomerManagementApp\CustomerManagementApp\obj\Debug\CustomerManagementApp.csproj.GenerateResource.Cache
+J:\Projects\CustomerManagementApp\CustomerManagementApp\bin\Debug\CustomerManagementApp.exe.config
+J:\Projects\CustomerManagementApp\CustomerManagementApp\obj\Debug\CustomerManagementApp.exe
+J:\Projects\CustomerManagementApp\CustomerManagementApp\obj\Debug\CustomerManagementApp.pdb
+J:\Projects\CustomerManagementApp\CustomerManagementApp\bin\Debug\CustomerManagementApp.exe
+J:\Projects\CustomerManagementApp\CustomerManagementApp\bin\Debug\CustomerManagementApp.pdb
+J:\Projects\CustomerManagementApp\CustomerManagementApp\obj\Debug\CustomerManagementApp.csprojResolveAssemblyReference.cache
+J:\Projects\CustomerManagementApp\CustomerManagementApp\obj\Debug\CustomerManagementApp.CustomerQueueManagement.resources
+J:\Projects\CustomerManagementApp\CustomerManagementApp\obj\Debug\CustomerManagementApp.Properties.Resources.resources
+J:\Projects\CustomerManagementApp\CustomerManagementApp\obj\Debug\CustomerManagementApp.csproj.GenerateResource.Cache
