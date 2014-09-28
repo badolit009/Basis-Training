@@ -1,0 +1,21 @@
+C:\Users\PC21\Desktop\new\BankingPercent\BankingPercent\bin\Debug\BankingPercent.exe.config
+C:\Users\PC21\Desktop\new\BankingPercent\BankingPercent\obj\Debug\BankingPercent.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\new\BankingPercent\BankingPercent\obj\Debug\BankingPercent.Form1.resources
+C:\Users\PC21\Desktop\new\BankingPercent\BankingPercent\obj\Debug\BankingPercent.Properties.Resources.resources
+C:\Users\PC21\Desktop\new\BankingPercent\BankingPercent\obj\Debug\BankingPercent.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\new\BankingPercent\BankingPercent\bin\Debug\BankingPercent.exe
+C:\Users\PC21\Desktop\new\BankingPercent\BankingPercent\bin\Debug\BankingPercent.pdb
+C:\Users\PC21\Desktop\new\BankingPercent\BankingPercent\obj\Debug\BankingPercent.exe
+C:\Users\PC21\Desktop\new\BankingPercent\BankingPercent\obj\Debug\BankingPercent.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\new\BankingPercent\BankingPercent\bin\Debug\BankingPercent.exe.config
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\new\BankingPercent\BankingPercent\obj\Debug\BankingPercent.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\new\BankingPercent\BankingPercent\obj\Debug\BankingPercent.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\BankingPercent\BankingPercent\bin\Debug\BankingPercent.exe.config
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\BankingPercent\BankingPercent\obj\Debug\BankingPercent.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\BankingPercent\BankingPercent\obj\Debug\BankingPercent.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\BankingPercent\BankingPercent\bin\Debug\BankingPercent.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\BankingPercent\BankingPercent\bin\Debug\BankingPercent.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\BankingPercent\BankingPercent\obj\Debug\BankingPercent.csprojResolveAssemblyReference.cache
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\BankingPercent\BankingPercent\obj\Debug\BankingPercent.BankingPercent.resources
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\BankingPercent\BankingPercent\obj\Debug\BankingPercent.Properties.Resources.resources
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\BankingPercent\BankingPercent\obj\Debug\BankingPercent.csproj.GenerateResource.Cache
