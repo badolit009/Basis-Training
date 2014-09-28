@@ -1,0 +1,11 @@
+c:\users\badol\documents\visual studio 2010\Projects\planetName\planetName\bin\Debug\planetName.exe
+c:\users\badol\documents\visual studio 2010\Projects\planetName\planetName\bin\Debug\planetName.pdb
+c:\users\badol\documents\visual studio 2010\Projects\planetName\planetName\obj\x86\Debug\planetName.Form1.resources
+c:\users\badol\documents\visual studio 2010\Projects\planetName\planetName\obj\x86\Debug\planetName.Properties.Resources.resources
+c:\users\badol\documents\visual studio 2010\Projects\planetName\planetName\obj\x86\Debug\planetName.csproj.GenerateResource.Cache
+c:\users\badol\documents\visual studio 2010\Projects\planetName\planetName\obj\x86\Debug\planetName.exe
+c:\users\badol\documents\visual studio 2010\Projects\planetName\planetName\obj\x86\Debug\planetName.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\planetName\planetName\obj\x86\Debug\planetName.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\planetName\planetName\obj\x86\Debug\planetName.pdb
+C:\Users\Badol Hossain\Desktop\New folder\PlanetName\planetName\obj\x86\Debug\planetName.exe
+C:\Users\Badol Hossain\Desktop\New folder\PlanetName\planetName\obj\x86\Debug\planetName.pdb

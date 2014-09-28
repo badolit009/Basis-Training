@@ -1,0 +1,8 @@
+c:\users\badol\documents\visual studio 2010\Projects\DataStructureExe\DataStructureExe\bin\Debug\DataStructureExe.exe
+c:\users\badol\documents\visual studio 2010\Projects\DataStructureExe\DataStructureExe\bin\Debug\DataStructureExe.pdb
+c:\users\badol\documents\visual studio 2010\Projects\DataStructureExe\DataStructureExe\obj\x86\Debug\DataStructureExe.exe
+c:\users\badol\documents\visual studio 2010\Projects\DataStructureExe\DataStructureExe\obj\x86\Debug\DataStructureExe.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\DataStructureExe\DataStructureExe\obj\x86\Debug\DataStructureExe.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\DataStructureExe\DataStructureExe\obj\x86\Debug\DataStructureExe.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\DataStructureExe\DataStructureExe\bin\Debug\DataStructureExe.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\DataStructureExe\DataStructureExe\bin\Debug\DataStructureExe.pdb

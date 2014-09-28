@@ -1,0 +1,24 @@
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\tryNumber\tryNumber\bin\Debug\tryNumber.exe
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\tryNumber\tryNumber\bin\Debug\tryNumber.pdb
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\tryNumber\tryNumber\obj\x86\Debug\tryNumber.Form1.resources
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\tryNumber\tryNumber\obj\x86\Debug\tryNumber.Properties.Resources.resources
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\tryNumber\tryNumber\obj\x86\Debug\tryNumber.csproj.GenerateResource.Cache
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\tryNumber\tryNumber\obj\x86\Debug\tryNumber.exe
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\tryNumber\tryNumber\obj\x86\Debug\tryNumber.pdb
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\New folder\tryNumber\tryNumber\obj\x86\Debug\tryNumber.exe
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\New folder\tryNumber\tryNumber\obj\x86\Debug\tryNumber.pdb
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\New folder\tryNumber\tryNumber\bin\Debug\tryNumber.exe
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\New folder\tryNumber\tryNumber\bin\Debug\tryNumber.pdb
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\New folder\tryNumber\tryNumber\obj\x86\Debug\tryNumber.Form1.resources
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\New folder\tryNumber\tryNumber\obj\x86\Debug\tryNumber.Properties.Resources.resources
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\New folder\tryNumber\tryNumber\obj\x86\Debug\tryNumber.csproj.GenerateResource.Cache
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\tryNumber\tryNumber\obj\x86\Debug\tryNumber.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\tryNumber\tryNumber\obj\x86\Debug\tryNumber.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\tryNumber\tryNumber\bin\Debug\tryNumber.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\tryNumber\tryNumber\bin\Debug\tryNumber.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\tryNumber\tryNumber\obj\x86\Debug\tryNumber.csprojResolveAssemblyReference.cache
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\tryNumber\tryNumber\obj\x86\Debug\tryNumber.Form1.resources
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\tryNumber\tryNumber\obj\x86\Debug\tryNumber.Properties.Resources.resources
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\tryNumber\tryNumber\obj\x86\Debug\tryNumber.csproj.GenerateResource.Cache
+C:\Users\Badol Hossain\Desktop\New folder\TryNumber\tryNumber\obj\x86\Debug\tryNumber.exe
+C:\Users\Badol Hossain\Desktop\New folder\TryNumber\tryNumber\obj\x86\Debug\tryNumber.pdb

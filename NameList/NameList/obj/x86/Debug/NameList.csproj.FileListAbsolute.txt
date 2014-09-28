@@ -1,0 +1,22 @@
+c:\users\badol\documents\visual studio 2010\Projects\NameList\NameList\bin\Debug\NameList.exe
+c:\users\badol\documents\visual studio 2010\Projects\NameList\NameList\bin\Debug\NameList.pdb
+c:\users\badol\documents\visual studio 2010\Projects\NameList\NameList\obj\x86\Debug\NameList.Form1.resources
+c:\users\badol\documents\visual studio 2010\Projects\NameList\NameList\obj\x86\Debug\NameList.Properties.Resources.resources
+c:\users\badol\documents\visual studio 2010\Projects\NameList\NameList\obj\x86\Debug\NameList.csproj.GenerateResource.Cache
+c:\users\badol\documents\visual studio 2010\Projects\NameList\NameList\obj\x86\Debug\NameList.exe
+c:\users\badol\documents\visual studio 2010\Projects\NameList\NameList\obj\x86\Debug\NameList.pdb
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\New folder\NameList\NameList\obj\x86\Debug\NameList.exe
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\New folder\NameList\NameList\obj\x86\Debug\NameList.pdb
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\New folder\NameList\NameList\bin\Debug\NameList.exe
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\New folder\NameList\NameList\bin\Debug\NameList.pdb
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\New folder\NameList\NameList\obj\x86\Debug\NameList.Form1.resources
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\New folder\NameList\NameList\obj\x86\Debug\NameList.Properties.Resources.resources
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\New folder\NameList\NameList\obj\x86\Debug\NameList.csproj.GenerateResource.Cache
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\NameList\NameList\obj\x86\Debug\NameList.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\NameList\NameList\obj\x86\Debug\NameList.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\NameList\NameList\bin\Debug\NameList.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\NameList\NameList\bin\Debug\NameList.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\NameList\NameList\obj\x86\Debug\NameList.csprojResolveAssemblyReference.cache
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\NameList\NameList\obj\x86\Debug\NameList.Form1.resources
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\NameList\NameList\obj\x86\Debug\NameList.Properties.Resources.resources
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\NameList\NameList\obj\x86\Debug\NameList.csproj.GenerateResource.Cache

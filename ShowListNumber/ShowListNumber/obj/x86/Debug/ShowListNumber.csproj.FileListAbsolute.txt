@@ -1,0 +1,10 @@
+c:\users\badol\documents\visual studio 2010\Projects\ShowListNumber\ShowListNumber\bin\Debug\ShowListNumber.exe
+c:\users\badol\documents\visual studio 2010\Projects\ShowListNumber\ShowListNumber\bin\Debug\ShowListNumber.pdb
+c:\users\badol\documents\visual studio 2010\Projects\ShowListNumber\ShowListNumber\obj\x86\Debug\ShowListNumber.Form1.resources
+c:\users\badol\documents\visual studio 2010\Projects\ShowListNumber\ShowListNumber\obj\x86\Debug\ShowListNumber.Properties.Resources.resources
+c:\users\badol\documents\visual studio 2010\Projects\ShowListNumber\ShowListNumber\obj\x86\Debug\ShowListNumber.csproj.GenerateResource.Cache
+c:\users\badol\documents\visual studio 2010\Projects\ShowListNumber\ShowListNumber\obj\x86\Debug\ShowListNumber.exe
+c:\users\badol\documents\visual studio 2010\Projects\ShowListNumber\ShowListNumber\obj\x86\Debug\ShowListNumber.pdb
+C:\Users\Badol\Documents\Visual Studio 2010\Projects\ShowListNumber\ShowListNumber\obj\x86\Debug\ShowListNumber.csprojResolveAssemblyReference.cache
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\ShowListNumber\ShowListNumber\obj\x86\Debug\ShowListNumber.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\ShowListNumber\ShowListNumber\obj\x86\Debug\ShowListNumber.pdb

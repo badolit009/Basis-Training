@@ -1,0 +1,7 @@
+c:\users\badol\documents\visual studio 2010\Projects\TicketPursage\TicketPursage\bin\Debug\TicketPursage.exe
+c:\users\badol\documents\visual studio 2010\Projects\TicketPursage\TicketPursage\bin\Debug\TicketPursage.pdb
+c:\users\badol\documents\visual studio 2010\Projects\TicketPursage\TicketPursage\obj\x86\Debug\TicketPursage.Form1.resources
+c:\users\badol\documents\visual studio 2010\Projects\TicketPursage\TicketPursage\obj\x86\Debug\TicketPursage.Properties.Resources.resources
+c:\users\badol\documents\visual studio 2010\Projects\TicketPursage\TicketPursage\obj\x86\Debug\TicketPursage.csproj.GenerateResource.Cache
+c:\users\badol\documents\visual studio 2010\Projects\TicketPursage\TicketPursage\obj\x86\Debug\TicketPursage.exe
+c:\users\badol\documents\visual studio 2010\Projects\TicketPursage\TicketPursage\obj\x86\Debug\TicketPursage.pdb
