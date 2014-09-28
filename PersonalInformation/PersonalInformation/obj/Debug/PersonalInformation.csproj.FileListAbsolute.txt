@@ -1,0 +1,17 @@
+C:\Users\PC21\Desktop\new\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe.config
+C:\Users\PC21\Desktop\new\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.Form1.resources
+C:\Users\PC21\Desktop\new\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.Properties.Resources.resources
+C:\Users\PC21\Desktop\new\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\new\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe
+C:\Users\PC21\Desktop\new\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.pdb
+C:\Users\PC21\Desktop\new\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.exe
+C:\Users\PC21\Desktop\new\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe.config
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csprojResolveAssemblyReference.cache
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.PersonalInformation.resources
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.Properties.Resources.resources
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csproj.GenerateResource.Cache
