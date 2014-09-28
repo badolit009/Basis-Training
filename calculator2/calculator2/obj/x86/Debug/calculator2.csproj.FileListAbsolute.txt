@@ -1,0 +1,15 @@
+c:\users\badol\documents\visual studio 2010\Projects\calculator2\calculator2\bin\Debug\calculator2.exe
+c:\users\badol\documents\visual studio 2010\Projects\calculator2\calculator2\bin\Debug\calculator2.pdb
+c:\users\badol\documents\visual studio 2010\Projects\calculator2\calculator2\obj\x86\Debug\calculator2.Form1.resources
+c:\users\badol\documents\visual studio 2010\Projects\calculator2\calculator2\obj\x86\Debug\calculator2.Properties.Resources.resources
+c:\users\badol\documents\visual studio 2010\Projects\calculator2\calculator2\obj\x86\Debug\calculator2.csproj.GenerateResource.Cache
+c:\users\badol\documents\visual studio 2010\Projects\calculator2\calculator2\obj\x86\Debug\calculator2.exe
+c:\users\badol\documents\visual studio 2010\Projects\calculator2\calculator2\obj\x86\Debug\calculator2.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\calculator2\calculator2\obj\x86\Debug\calculator2.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\calculator2\calculator2\obj\x86\Debug\calculator2.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\calculator2\calculator2\bin\Debug\calculator2.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\calculator2\calculator2\bin\Debug\calculator2.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\calculator2\calculator2\obj\x86\Debug\calculator2.csprojResolveAssemblyReference.cache
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\calculator2\calculator2\obj\x86\Debug\calculator2.Form1.resources
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\calculator2\calculator2\obj\x86\Debug\calculator2.Properties.Resources.resources
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\calculator2\calculator2\obj\x86\Debug\calculator2.csproj.GenerateResource.Cache

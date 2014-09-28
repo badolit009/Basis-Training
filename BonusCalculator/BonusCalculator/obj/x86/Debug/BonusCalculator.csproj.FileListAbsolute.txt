@@ -1,0 +1,14 @@
+c:\users\badol\documents\visual studio 2010\Projects\BonusCalculator\BonusCalculator\obj\x86\Debug\BonusCalculator.BonusCulculator.resources
+c:\users\badol\documents\visual studio 2010\Projects\BonusCalculator\BonusCalculator\obj\x86\Debug\BonusCalculator.Properties.Resources.resources
+c:\users\badol\documents\visual studio 2010\Projects\BonusCalculator\BonusCalculator\obj\x86\Debug\BonusCalculator.csproj.GenerateResource.Cache
+c:\users\badol\documents\visual studio 2010\Projects\BonusCalculator\BonusCalculator\bin\Debug\BonusCalculator.exe
+c:\users\badol\documents\visual studio 2010\Projects\BonusCalculator\BonusCalculator\bin\Debug\BonusCalculator.pdb
+c:\users\badol\documents\visual studio 2010\Projects\BonusCalculator\BonusCalculator\obj\x86\Debug\BonusCalculator.exe
+c:\users\badol\documents\visual studio 2010\Projects\BonusCalculator\BonusCalculator\obj\x86\Debug\BonusCalculator.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\BonusCalculator\BonusCalculator\obj\x86\Debug\BonusCalculator.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\BonusCalculator\BonusCalculator\obj\x86\Debug\BonusCalculator.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\BonusCalculator\BonusCalculator\bin\Debug\BonusCalculator.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\BonusCalculator\BonusCalculator\bin\Debug\BonusCalculator.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\BonusCalculator\BonusCalculator\obj\x86\Debug\BonusCalculator.BonusCulculator.resources
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\BonusCalculator\BonusCalculator\obj\x86\Debug\BonusCalculator.Properties.Resources.resources
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\BonusCalculator\BonusCalculator\obj\x86\Debug\BonusCalculator.csproj.GenerateResource.Cache
