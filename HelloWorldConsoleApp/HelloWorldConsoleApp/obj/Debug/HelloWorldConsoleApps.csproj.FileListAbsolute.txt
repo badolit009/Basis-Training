@@ -1,0 +1,6 @@
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\oop.net 13 sep\ConsoleApplication1\ConsoleApplication1\obj\Debug\HelloWorldConsoleApps.csprojResolveAssemblyReference.cache

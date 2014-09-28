@@ -1,0 +1,8 @@
+C:\Users\PC21\Desktop\new\HelloWorldDesktopApps\HelloWorldDesktopApps\bin\Debug\HelloWorldDesktopApps.exe.config
+C:\Users\PC21\Desktop\new\HelloWorldDesktopApps\HelloWorldDesktopApps\bin\Debug\HelloWorldDesktopApps.exe
+C:\Users\PC21\Desktop\new\HelloWorldDesktopApps\HelloWorldDesktopApps\bin\Debug\HelloWorldDesktopApps.pdb
+C:\Users\PC21\Desktop\new\HelloWorldDesktopApps\HelloWorldDesktopApps\obj\Debug\HelloWorldDesktopApps.Form1.resources
+C:\Users\PC21\Desktop\new\HelloWorldDesktopApps\HelloWorldDesktopApps\obj\Debug\HelloWorldDesktopApps.Properties.Resources.resources
+C:\Users\PC21\Desktop\new\HelloWorldDesktopApps\HelloWorldDesktopApps\obj\Debug\HelloWorldDesktopApps.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\new\HelloWorldDesktopApps\HelloWorldDesktopApps\obj\Debug\HelloWorldDesktopApps.exe
+C:\Users\PC21\Desktop\new\HelloWorldDesktopApps\HelloWorldDesktopApps\obj\Debug\HelloWorldDesktopApps.pdb
