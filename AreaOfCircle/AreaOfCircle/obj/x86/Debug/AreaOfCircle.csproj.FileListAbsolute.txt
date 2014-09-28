@@ -13,3 +13,5 @@ C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\AreaOfCircle\AreaOf
 C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\AreaOfCircle\AreaOfCircle\obj\x86\Debug\AreaOfCircle.Form1.resources
 C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\AreaOfCircle\AreaOfCircle\obj\x86\Debug\AreaOfCircle.Properties.Resources.resources
 C:\Users\Badol Hossain\Desktop\Basis Training\New folder2010\AreaOfCircle\AreaOfCircle\obj\x86\Debug\AreaOfCircle.csproj.GenerateResource.Cache
+C:\Users\Badol Hossain\Desktop\GitUpload\Basis-Training\AreaOfCircle\AreaOfCircle\obj\x86\Debug\AreaOfCircle.exe
+C:\Users\Badol Hossain\Desktop\GitUpload\Basis-Training\AreaOfCircle\AreaOfCircle\obj\x86\Debug\AreaOfCircle.pdb

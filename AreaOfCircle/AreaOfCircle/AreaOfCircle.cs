@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace AreaOfCircle
 {
-    public partial class Form1 : Form
+    public partial class AreaOfCircle : Form
     {
-        public Form1()
+        public AreaOfCircle()
         {
             InitializeComponent();
         }
