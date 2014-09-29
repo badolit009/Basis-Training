@@ -1,0 +1,7 @@
+C:\Users\Badol\Documents\problem solution 2\MaximumAndMinimumNumber\MaximumAndMinimumNumber\bin\Debug\MaximumAndMinimumNumber.exe
+C:\Users\Badol\Documents\problem solution 2\MaximumAndMinimumNumber\MaximumAndMinimumNumber\bin\Debug\MaximumAndMinimumNumber.pdb
+C:\Users\Badol\Documents\problem solution 2\MaximumAndMinimumNumber\MaximumAndMinimumNumber\obj\x86\Debug\MaximumAndMinimumNumber.Form1.resources
+C:\Users\Badol\Documents\problem solution 2\MaximumAndMinimumNumber\MaximumAndMinimumNumber\obj\x86\Debug\MaximumAndMinimumNumber.Properties.Resources.resources
+C:\Users\Badol\Documents\problem solution 2\MaximumAndMinimumNumber\MaximumAndMinimumNumber\obj\x86\Debug\MaximumAndMinimumNumber.csproj.GenerateResource.Cache
+C:\Users\Badol\Documents\problem solution 2\MaximumAndMinimumNumber\MaximumAndMinimumNumber\obj\x86\Debug\MaximumAndMinimumNumber.exe
+C:\Users\Badol\Documents\problem solution 2\MaximumAndMinimumNumber\MaximumAndMinimumNumber\obj\x86\Debug\MaximumAndMinimumNumber.pdb
