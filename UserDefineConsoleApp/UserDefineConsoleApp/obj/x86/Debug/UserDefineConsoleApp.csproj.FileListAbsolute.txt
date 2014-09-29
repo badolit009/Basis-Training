@@ -1,0 +1,6 @@
+C:\Users\Badol\Documents\problem solution 2\UserDefineConsoleApp\UserDefineConsoleApp\bin\Debug\UserDefineConsoleApp.exe
+C:\Users\Badol\Documents\problem solution 2\UserDefineConsoleApp\UserDefineConsoleApp\bin\Debug\UserDefineConsoleApp.pdb
+C:\Users\Badol\Documents\problem solution 2\UserDefineConsoleApp\UserDefineConsoleApp\obj\x86\Debug\UserDefineConsoleApp.exe
+C:\Users\Badol\Documents\problem solution 2\UserDefineConsoleApp\UserDefineConsoleApp\obj\x86\Debug\UserDefineConsoleApp.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\UserDefineConsoleApp\UserDefineConsoleApp\obj\x86\Debug\UserDefineConsoleApp.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\UserDefineConsoleApp\UserDefineConsoleApp\obj\x86\Debug\UserDefineConsoleApp.pdb
