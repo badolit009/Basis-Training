@@ -1,0 +1,15 @@
+C:\Users\Badol\Documents\problem solution 2\Employeesalaryexample\Employeesalaryexample\bin\Debug\Employeesalaryexample.exe
+C:\Users\Badol\Documents\problem solution 2\Employeesalaryexample\Employeesalaryexample\bin\Debug\Employeesalaryexample.pdb
+C:\Users\Badol\Documents\problem solution 2\Employeesalaryexample\Employeesalaryexample\obj\x86\Debug\Employeesalaryexample.Form1.resources
+C:\Users\Badol\Documents\problem solution 2\Employeesalaryexample\Employeesalaryexample\obj\x86\Debug\Employeesalaryexample.Properties.Resources.resources
+C:\Users\Badol\Documents\problem solution 2\Employeesalaryexample\Employeesalaryexample\obj\x86\Debug\Employeesalaryexample.csproj.GenerateResource.Cache
+C:\Users\Badol\Documents\problem solution 2\Employeesalaryexample\Employeesalaryexample\obj\x86\Debug\Employeesalaryexample.exe
+C:\Users\Badol\Documents\problem solution 2\Employeesalaryexample\Employeesalaryexample\obj\x86\Debug\Employeesalaryexample.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\Employeesalaryexample\Employeesalaryexample\obj\x86\Debug\Employeesalaryexample.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\Employeesalaryexample\Employeesalaryexample\obj\x86\Debug\Employeesalaryexample.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\Employeesalaryexample\Employeesalaryexample\bin\Debug\Employeesalaryexample.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\Employeesalaryexample\Employeesalaryexample\bin\Debug\Employeesalaryexample.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\Employeesalaryexample\Employeesalaryexample\obj\x86\Debug\Employeesalaryexample.csprojResolveAssemblyReference.cache
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\Employeesalaryexample\Employeesalaryexample\obj\x86\Debug\Employeesalaryexample.Form1.resources
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\Employeesalaryexample\Employeesalaryexample\obj\x86\Debug\Employeesalaryexample.Properties.Resources.resources
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\Employeesalaryexample\Employeesalaryexample\obj\x86\Debug\Employeesalaryexample.csproj.GenerateResource.Cache
