@@ -1,0 +1,16 @@
+c:\users\badol hossain\documents\visual studio 2013\Projects\DailyExpanseApps2\DailyExpanseApps2\bin\Debug\DailyExpanseApps2.exe.config
+c:\users\badol hossain\documents\visual studio 2013\Projects\DailyExpanseApps2\DailyExpanseApps2\bin\Debug\DailyExpanseApps2.exe
+c:\users\badol hossain\documents\visual studio 2013\Projects\DailyExpanseApps2\DailyExpanseApps2\bin\Debug\DailyExpanseApps2.pdb
+c:\users\badol hossain\documents\visual studio 2013\Projects\DailyExpanseApps2\DailyExpanseApps2\bin\Debug\CSVLib.dll
+c:\users\badol hossain\documents\visual studio 2013\Projects\DailyExpanseApps2\DailyExpanseApps2\obj\Debug\DailyExpanseApps2.csprojResolveAssemblyReference.cache
+c:\users\badol hossain\documents\visual studio 2013\Projects\DailyExpanseApps2\DailyExpanseApps2\obj\Debug\DailyExpanseApps2.DailyExpenseApp.resources
+c:\users\badol hossain\documents\visual studio 2013\Projects\DailyExpanseApps2\DailyExpanseApps2\obj\Debug\DailyExpanseApps2.Properties.Resources.resources
+c:\users\badol hossain\documents\visual studio 2013\Projects\DailyExpanseApps2\DailyExpanseApps2\obj\Debug\DailyExpanseApps2.csproj.GenerateResource.Cache
+c:\users\badol hossain\documents\visual studio 2013\Projects\DailyExpanseApps2\DailyExpanseApps2\obj\Debug\DailyExpanseApps2.exe
+c:\users\badol hossain\documents\visual studio 2013\Projects\DailyExpanseApps2\DailyExpanseApps2\obj\Debug\DailyExpanseApps2.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\DailyExpanseApps2\DailyExpanseApps2\bin\Debug\DailyExpanseApps2.exe.config
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\DailyExpanseApps2\DailyExpanseApps2\obj\Debug\DailyExpanseApps2.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\DailyExpanseApps2\DailyExpanseApps2\obj\Debug\DailyExpanseApps2.pdb
+C:\Users\Badol Hossain\Desktop\problem solution 2\DailyExpanseApps2\DailyExpanseApps2\bin\Debug\DailyExpanseApps2.exe.config
+C:\Users\Badol Hossain\Desktop\problem solution 2\DailyExpanseApps2\DailyExpanseApps2\obj\Debug\DailyExpanseApps2.exe
+C:\Users\Badol Hossain\Desktop\problem solution 2\DailyExpanseApps2\DailyExpanseApps2\obj\Debug\DailyExpanseApps2.pdb
