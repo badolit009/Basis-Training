@@ -1,0 +1,7 @@
+C:\Users\Badol\Documents\problem solution 2\FileOperation\FileOperation\bin\Debug\FileOperation.exe
+C:\Users\Badol\Documents\problem solution 2\FileOperation\FileOperation\bin\Debug\FileOperation.pdb
+C:\Users\Badol\Documents\problem solution 2\FileOperation\FileOperation\obj\x86\Debug\FileOperation.Form1.resources
+C:\Users\Badol\Documents\problem solution 2\FileOperation\FileOperation\obj\x86\Debug\FileOperation.Properties.Resources.resources
+C:\Users\Badol\Documents\problem solution 2\FileOperation\FileOperation\obj\x86\Debug\FileOperation.csproj.GenerateResource.Cache
+C:\Users\Badol\Documents\problem solution 2\FileOperation\FileOperation\obj\x86\Debug\FileOperation.exe
+C:\Users\Badol\Documents\problem solution 2\FileOperation\FileOperation\obj\x86\Debug\FileOperation.pdb
