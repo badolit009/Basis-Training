@@ -1,0 +1,9 @@
+J:\Projects\3.Sept16 project\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe.config
+J:\Projects\3.Sept16 project\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe
+J:\Projects\3.Sept16 project\StudentsApp\StudentsApp\bin\Debug\StudentsApp.pdb
+J:\Projects\3.Sept16 project\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csprojResolveAssemblyReference.cache
+J:\Projects\3.Sept16 project\StudentsApp\StudentsApp\obj\Debug\StudentsApp.StudentsUI.resources
+J:\Projects\3.Sept16 project\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Properties.Resources.resources
+J:\Projects\3.Sept16 project\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.GenerateResource.Cache
+J:\Projects\3.Sept16 project\StudentsApp\StudentsApp\obj\Debug\StudentsApp.exe
+J:\Projects\3.Sept16 project\StudentsApp\StudentsApp\obj\Debug\StudentsApp.pdb
