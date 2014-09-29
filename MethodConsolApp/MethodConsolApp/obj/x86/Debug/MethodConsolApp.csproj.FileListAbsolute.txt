@@ -1,0 +1,4 @@
+C:\Users\Badol\Documents\problem solution 2\MethodConsolApp\MethodConsolApp\bin\Debug\MethodConsolApp.exe
+C:\Users\Badol\Documents\problem solution 2\MethodConsolApp\MethodConsolApp\bin\Debug\MethodConsolApp.pdb
+C:\Users\Badol\Documents\problem solution 2\MethodConsolApp\MethodConsolApp\obj\x86\Debug\MethodConsolApp.exe
+C:\Users\Badol\Documents\problem solution 2\MethodConsolApp\MethodConsolApp\obj\x86\Debug\MethodConsolApp.pdb
