@@ -1,0 +1,10 @@
+C:\Users\Badol\Documents\problem solution 2\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\Users\Badol\Documents\problem solution 2\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\Users\Badol\Documents\problem solution 2\PrimeNumber\PrimeNumber\obj\x86\Debug\PrimeNumber.csprojResolveAssemblyReference.cache
+C:\Users\Badol\Documents\problem solution 2\PrimeNumber\PrimeNumber\obj\x86\Debug\PrimeNumber.exe
+C:\Users\Badol\Documents\problem solution 2\PrimeNumber\PrimeNumber\obj\x86\Debug\PrimeNumber.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\PrimeNumber\PrimeNumber\obj\x86\Debug\PrimeNumber.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\PrimeNumber\PrimeNumber\obj\x86\Debug\PrimeNumber.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\PrimeNumber\PrimeNumber\obj\x86\Debug\PrimeNumber.csprojResolveAssemblyReference.cache
