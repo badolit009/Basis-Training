@@ -1,0 +1,9 @@
+C:\Users\Badol\Documents\problem solution 2\FindingPrimeNumber\FindingPrimeNumber\bin\Debug\FindingPrimeNumber.exe
+C:\Users\Badol\Documents\problem solution 2\FindingPrimeNumber\FindingPrimeNumber\bin\Debug\FindingPrimeNumber.pdb
+C:\Users\Badol\Documents\problem solution 2\FindingPrimeNumber\FindingPrimeNumber\obj\x86\Debug\FindingPrimeNumber.exe
+C:\Users\Badol\Documents\problem solution 2\FindingPrimeNumber\FindingPrimeNumber\obj\x86\Debug\FindingPrimeNumber.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\FindingPrimeNumber\FindingPrimeNumber\obj\x86\Debug\FindingPrimeNumber.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\FindingPrimeNumber\FindingPrimeNumber\obj\x86\Debug\FindingPrimeNumber.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\FindingPrimeNumber\FindingPrimeNumber\bin\Debug\FindingPrimeNumber.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\FindingPrimeNumber\FindingPrimeNumber\bin\Debug\FindingPrimeNumber.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\FindingPrimeNumber\FindingPrimeNumber\obj\x86\Debug\FindingPrimeNumber.csprojResolveAssemblyReference.cache
