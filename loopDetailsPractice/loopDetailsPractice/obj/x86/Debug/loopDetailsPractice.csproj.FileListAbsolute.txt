@@ -1,0 +1,4 @@
+C:\Users\Badol\Documents\problem solution 2\loopDetailsPractice\loopDetailsPractice\bin\Debug\loopDetailsPractice.exe
+C:\Users\Badol\Documents\problem solution 2\loopDetailsPractice\loopDetailsPractice\bin\Debug\loopDetailsPractice.pdb
+C:\Users\Badol\Documents\problem solution 2\loopDetailsPractice\loopDetailsPractice\obj\x86\Debug\loopDetailsPractice.exe
+C:\Users\Badol\Documents\problem solution 2\loopDetailsPractice\loopDetailsPractice\obj\x86\Debug\loopDetailsPractice.pdb
