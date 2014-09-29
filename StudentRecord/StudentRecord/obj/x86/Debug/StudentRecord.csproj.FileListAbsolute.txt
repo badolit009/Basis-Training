@@ -1,0 +1,4 @@
+C:\Users\Badol\Documents\problem solution 2\StudentRecord\StudentRecord\obj\x86\Debug\StudentRecord.csprojResolveAssemblyReference.cache
+C:\Users\Badol\Documents\problem solution 2\StudentRecord\StudentRecord\obj\x86\Debug\StudentRecord.Form1.resources
+C:\Users\Badol\Documents\problem solution 2\StudentRecord\StudentRecord\obj\x86\Debug\StudentRecord.Properties.Resources.resources
+C:\Users\Badol\Documents\problem solution 2\StudentRecord\StudentRecord\obj\x86\Debug\StudentRecord.csproj.GenerateResource.Cache
