@@ -1,0 +1,9 @@
+J:\Projects\3.Sept16 project\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe.config
+J:\Projects\3.Sept16 project\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe
+J:\Projects\3.Sept16 project\StudentInformation\StudentInformation\bin\Debug\StudentInformation.pdb
+J:\Projects\3.Sept16 project\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csprojResolveAssemblyReference.cache
+J:\Projects\3.Sept16 project\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+J:\Projects\3.Sept16 project\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.Cache
+J:\Projects\3.Sept16 project\StudentInformation\StudentInformation\obj\Debug\StudentInformation.exe
+J:\Projects\3.Sept16 project\StudentInformation\StudentInformation\obj\Debug\StudentInformation.pdb
+J:\Projects\3.Sept16 project\StudentInformation\StudentInformation\obj\Debug\StudentInformation.StudentInfo.resources
