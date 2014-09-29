@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("HashtableConsoleApps")]
+[assembly: AssemblyTitle("LIstViewPractice")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HashtableConsoleApps")]
+[assembly: AssemblyProduct("LIstViewPractice")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4841f9bf-78e3-4aa0-8946-537cafb3428c")]
+[assembly: Guid("8d38b938-b700-43f6-9cb4-ade12134140e")]
 
 // Version information for an assembly consists of the following four values:
 //

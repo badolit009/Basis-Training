@@ -1,0 +1,7 @@
+C:\Users\Badol\Documents\problem solution 2\LIstViewPractice\LIstViewPractice\bin\Debug\LIstViewPractice.exe
+C:\Users\Badol\Documents\problem solution 2\LIstViewPractice\LIstViewPractice\bin\Debug\LIstViewPractice.pdb
+C:\Users\Badol\Documents\problem solution 2\LIstViewPractice\LIstViewPractice\obj\x86\Debug\LIstViewPractice.EmployeeSelaryUI.resources
+C:\Users\Badol\Documents\problem solution 2\LIstViewPractice\LIstViewPractice\obj\x86\Debug\LIstViewPractice.Properties.Resources.resources
+C:\Users\Badol\Documents\problem solution 2\LIstViewPractice\LIstViewPractice\obj\x86\Debug\LIstViewPractice.csproj.GenerateResource.Cache
+C:\Users\Badol\Documents\problem solution 2\LIstViewPractice\LIstViewPractice\obj\x86\Debug\LIstViewPractice.exe
+C:\Users\Badol\Documents\problem solution 2\LIstViewPractice\LIstViewPractice\obj\x86\Debug\LIstViewPractice.pdb
