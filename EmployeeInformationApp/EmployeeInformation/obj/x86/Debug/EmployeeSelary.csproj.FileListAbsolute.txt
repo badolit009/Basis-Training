@@ -1,0 +1,23 @@
+C:\Users\Badol\Documents\problem solution 2\EmployeeSelary\EmployeeSelary\obj\x86\Debug\EmployeeSelary.Form1.resources
+C:\Users\Badol\Documents\problem solution 2\EmployeeSelary\EmployeeSelary\obj\x86\Debug\EmployeeSelary.Properties.Resources.resources
+C:\Users\Badol\Documents\problem solution 2\EmployeeSelary\EmployeeSelary\obj\x86\Debug\EmployeeSelary.csproj.GenerateResource.Cache
+C:\Users\Badol\Documents\problem solution 2\EmployeeSelary\EmployeeSelary\bin\Debug\EmployeeSelary.exe
+C:\Users\Badol\Documents\problem solution 2\EmployeeSelary\EmployeeSelary\bin\Debug\EmployeeSelary.pdb
+C:\Users\Badol\Documents\problem solution 2\EmployeeSelary\EmployeeSelary\obj\x86\Debug\EmployeeSelary.exe
+C:\Users\Badol\Documents\problem solution 2\EmployeeSelary\EmployeeSelary\obj\x86\Debug\EmployeeSelary.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\EmployeeSelary\EmployeeSelary\obj\x86\Debug\EmployeeSelary.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\EmployeeSelary\EmployeeSelary\obj\x86\Debug\EmployeeSelary.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\EmployeeSelary\EmployeeSelary\bin\Debug\EmployeeSelary.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\EmployeeSelary\EmployeeSelary\bin\Debug\EmployeeSelary.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\EmployeeSelary\EmployeeSelary\obj\x86\Debug\EmployeeSelary.csprojResolveAssemblyReference.cache
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\EmployeeSelary\EmployeeSelary\obj\x86\Debug\EmployeeSelary.SalaryAppUI.resources
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\EmployeeSelary\EmployeeSelary\obj\x86\Debug\EmployeeSelary.Properties.Resources.resources
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\EmployeeSelary\EmployeeSelary\obj\x86\Debug\EmployeeSelary.csproj.GenerateResource.Cache
+C:\Users\Badol Hossain\Desktop\problem solution 2\EmployeeSelary\EmployeeSelary\obj\x86\Debug\EmployeeSelary.exe
+C:\Users\Badol Hossain\Desktop\problem solution 2\EmployeeSelary\EmployeeSelary\obj\x86\Debug\EmployeeSelary.pdb
+C:\Users\Badol Hossain\Desktop\problem solution 2\EmployeeSelary\EmployeeSelary\bin\Debug\EmployeeSelary.exe
+C:\Users\Badol Hossain\Desktop\problem solution 2\EmployeeSelary\EmployeeSelary\bin\Debug\EmployeeSelary.pdb
+C:\Users\Badol Hossain\Desktop\problem solution 2\EmployeeSelary\EmployeeSelary\obj\x86\Debug\EmployeeSelary.csprojResolveAssemblyReference.cache
+C:\Users\Badol Hossain\Desktop\problem solution 2\EmployeeSelary\EmployeeSelary\obj\x86\Debug\EmployeeSelary.EmployeInformationUI.resources
+C:\Users\Badol Hossain\Desktop\problem solution 2\EmployeeSelary\EmployeeSelary\obj\x86\Debug\EmployeeSelary.Properties.Resources.resources
+C:\Users\Badol Hossain\Desktop\problem solution 2\EmployeeSelary\EmployeeSelary\obj\x86\Debug\EmployeeSelary.csproj.GenerateResource.Cache
