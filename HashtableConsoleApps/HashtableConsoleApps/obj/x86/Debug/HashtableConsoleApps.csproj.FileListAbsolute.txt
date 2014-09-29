@@ -1,0 +1,4 @@
+C:\Users\Badol\Documents\problem solution 2\HashtableConsoleApps\HashtableConsoleApps\bin\Debug\HashtableConsoleApps.exe
+C:\Users\Badol\Documents\problem solution 2\HashtableConsoleApps\HashtableConsoleApps\bin\Debug\HashtableConsoleApps.pdb
+C:\Users\Badol\Documents\problem solution 2\HashtableConsoleApps\HashtableConsoleApps\obj\x86\Debug\HashtableConsoleApps.exe
+C:\Users\Badol\Documents\problem solution 2\HashtableConsoleApps\HashtableConsoleApps\obj\x86\Debug\HashtableConsoleApps.pdb
