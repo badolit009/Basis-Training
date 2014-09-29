@@ -1,0 +1,16 @@
+C:\Users\Badol\Documents\problem solution 2\CustomerQueueManagement\CustomerQueueManagement\bin\Debug\CustomerQueueManagement.exe
+C:\Users\Badol\Documents\problem solution 2\CustomerQueueManagement\CustomerQueueManagement\bin\Debug\CustomerQueueManagement.pdb
+C:\Users\Badol\Documents\problem solution 2\CustomerQueueManagement\CustomerQueueManagement\obj\x86\Debug\CustomerQueueManagement.Form1.resources
+C:\Users\Badol\Documents\problem solution 2\CustomerQueueManagement\CustomerQueueManagement\obj\x86\Debug\CustomerQueueManagement.Properties.Resources.resources
+C:\Users\Badol\Documents\problem solution 2\CustomerQueueManagement\CustomerQueueManagement\obj\x86\Debug\CustomerQueueManagement.csproj.GenerateResource.Cache
+C:\Users\Badol\Documents\problem solution 2\CustomerQueueManagement\CustomerQueueManagement\obj\x86\Debug\CustomerQueueManagement.exe
+C:\Users\Badol\Documents\problem solution 2\CustomerQueueManagement\CustomerQueueManagement\obj\x86\Debug\CustomerQueueManagement.pdb
+C:\Users\Badol\Documents\problem solution 2\CustomerQueueManagement\CustomerQueueManagement\obj\x86\Debug\CustomerQueueManagement.csprojResolveAssemblyReference.cache
+J:\problem solution 2\CustomerQueueManagement\CustomerQueueManagement\obj\x86\Debug\CustomerQueueManagement.exe
+J:\problem solution 2\CustomerQueueManagement\CustomerQueueManagement\obj\x86\Debug\CustomerQueueManagement.pdb
+J:\problem solution 2\CustomerQueueManagement\CustomerQueueManagement\bin\Debug\CustomerQueueManagement.exe
+J:\problem solution 2\CustomerQueueManagement\CustomerQueueManagement\bin\Debug\CustomerQueueManagement.pdb
+J:\problem solution 2\CustomerQueueManagement\CustomerQueueManagement\obj\x86\Debug\CustomerQueueManagement.csprojResolveAssemblyReference.cache
+J:\problem solution 2\CustomerQueueManagement\CustomerQueueManagement\obj\x86\Debug\CustomerQueueManagement.Form1.resources
+J:\problem solution 2\CustomerQueueManagement\CustomerQueueManagement\obj\x86\Debug\CustomerQueueManagement.Properties.Resources.resources
+J:\problem solution 2\CustomerQueueManagement\CustomerQueueManagement\obj\x86\Debug\CustomerQueueManagement.csproj.GenerateResource.Cache
