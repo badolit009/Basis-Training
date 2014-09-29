@@ -1,0 +1,15 @@
+C:\Users\Badol\Documents\problem solution 2\UserDefineType\UserDefineType\bin\Debug\UserDefineType.exe
+C:\Users\Badol\Documents\problem solution 2\UserDefineType\UserDefineType\bin\Debug\UserDefineType.pdb
+C:\Users\Badol\Documents\problem solution 2\UserDefineType\UserDefineType\obj\x86\Debug\UserDefineType.Form1.resources
+C:\Users\Badol\Documents\problem solution 2\UserDefineType\UserDefineType\obj\x86\Debug\UserDefineType.Properties.Resources.resources
+C:\Users\Badol\Documents\problem solution 2\UserDefineType\UserDefineType\obj\x86\Debug\UserDefineType.csproj.GenerateResource.Cache
+C:\Users\Badol\Documents\problem solution 2\UserDefineType\UserDefineType\obj\x86\Debug\UserDefineType.exe
+C:\Users\Badol\Documents\problem solution 2\UserDefineType\UserDefineType\obj\x86\Debug\UserDefineType.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\UserDefineType\UserDefineType\obj\x86\Debug\UserDefineType.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\UserDefineType\UserDefineType\obj\x86\Debug\UserDefineType.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\UserDefineType\UserDefineType\bin\Debug\UserDefineType.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\UserDefineType\UserDefineType\bin\Debug\UserDefineType.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\UserDefineType\UserDefineType\obj\x86\Debug\UserDefineType.csprojResolveAssemblyReference.cache
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\UserDefineType\UserDefineType\obj\x86\Debug\UserDefineType.Form1.resources
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\UserDefineType\UserDefineType\obj\x86\Debug\UserDefineType.Properties.Resources.resources
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\UserDefineType\UserDefineType\obj\x86\Debug\UserDefineType.csproj.GenerateResource.Cache
