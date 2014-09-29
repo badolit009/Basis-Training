@@ -1,0 +1,4 @@
+C:\Users\Badol\Documents\problem solution 2\FindingArrayIndex\FindingArrayIndex\bin\Debug\FindingArrayIndex.exe
+C:\Users\Badol\Documents\problem solution 2\FindingArrayIndex\FindingArrayIndex\bin\Debug\FindingArrayIndex.pdb
+C:\Users\Badol\Documents\problem solution 2\FindingArrayIndex\FindingArrayIndex\obj\x86\Debug\FindingArrayIndex.exe
+C:\Users\Badol\Documents\problem solution 2\FindingArrayIndex\FindingArrayIndex\obj\x86\Debug\FindingArrayIndex.pdb
