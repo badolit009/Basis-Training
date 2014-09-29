@@ -1,0 +1,16 @@
+C:\Users\Badol\Documents\problem solution 2\ProductSortingApplication\ProductSortingApplication\bin\Debug\ProductSortingApplication.exe
+C:\Users\Badol\Documents\problem solution 2\ProductSortingApplication\ProductSortingApplication\bin\Debug\ProductSortingApplication.pdb
+C:\Users\Badol\Documents\problem solution 2\ProductSortingApplication\ProductSortingApplication\obj\x86\Debug\ProductSortingApplication.Form1.resources
+C:\Users\Badol\Documents\problem solution 2\ProductSortingApplication\ProductSortingApplication\obj\x86\Debug\ProductSortingApplication.Properties.Resources.resources
+C:\Users\Badol\Documents\problem solution 2\ProductSortingApplication\ProductSortingApplication\obj\x86\Debug\ProductSortingApplication.csproj.GenerateResource.Cache
+C:\Users\Badol\Documents\problem solution 2\ProductSortingApplication\ProductSortingApplication\obj\x86\Debug\ProductSortingApplication.exe
+C:\Users\Badol\Documents\problem solution 2\ProductSortingApplication\ProductSortingApplication\obj\x86\Debug\ProductSortingApplication.pdb
+C:\Users\Badol\Documents\problem solution 2\ProductSortingApplication\ProductSortingApplication\obj\x86\Debug\ProductSortingApplication.csprojResolveAssemblyReference.cache
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\ProductSortingApplication\ProductSortingApplication\obj\x86\Debug\ProductSortingApplication.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\ProductSortingApplication\ProductSortingApplication\obj\x86\Debug\ProductSortingApplication.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\ProductSortingApplication\ProductSortingApplication\bin\Debug\ProductSortingApplication.exe
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\ProductSortingApplication\ProductSortingApplication\bin\Debug\ProductSortingApplication.pdb
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\ProductSortingApplication\ProductSortingApplication\obj\x86\Debug\ProductSortingApplication.csprojResolveAssemblyReference.cache
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\ProductSortingApplication\ProductSortingApplication\obj\x86\Debug\ProductSortingApplication.ProductShortingApp.resources
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\ProductSortingApplication\ProductSortingApplication\obj\x86\Debug\ProductSortingApplication.Properties.Resources.resources
+C:\Users\Badol Hossain\Desktop\Basis Training\problem solution 2\ProductSortingApplication\ProductSortingApplication\obj\x86\Debug\ProductSortingApplication.csproj.GenerateResource.Cache
